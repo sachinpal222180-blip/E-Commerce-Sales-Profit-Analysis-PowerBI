@@ -49,6 +49,3 @@ I'm continuously working on hands-on projects to improve my Data Analytics skill
 B.Sc. IT Graduate | Data Analytics Learner
 
 📊 Skills: Microsoft Power BI | Microsoft Excel | SQL | Python
-
-🔗 GitHub: github.com/sachinpal98  
-🔗 LinkedIn: linkedin.com/in/sachin-pal2005
